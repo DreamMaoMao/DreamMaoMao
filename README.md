@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm DreamMaoMao</h1>
+<div align="center">
+<br>
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://vgoer.github.io/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=print(%22Hello%2C%20World%22);Hi 👋, I'm DreamMaoMao&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+  <br><img src="https://ayaka-icu-oss.oss-cn-beijing.aliyuncs.com/gif/pc.gif" /><br><br>
+
+</div>
 
 <div align="center">
 <table>
